@@ -208,6 +208,8 @@ MIT. See [`LICENSE`](LICENSE).
 
 ## 한국어 (Korean)
 
+### AMB82-mini 온디바이스 식물 질병 판별
+
 # AMB82-mini 온디바이스 식물 질병 판별
 
 > Realtek AMB82-mini의 0.4 TOPS NPU에서 전부 동작하는 카메라-LED 식물 질병 분류기:
