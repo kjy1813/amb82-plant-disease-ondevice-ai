@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+wifi_config.h
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large generated binaries / models
+*.h5
+*.nb
+*.tflite
+*.bin
+*.zip
+
+# Training data (not redistributable)
+dataset/
+
+# Build
+build/
+dist/
