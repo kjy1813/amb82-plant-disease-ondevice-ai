@@ -1,0 +1,9 @@
+// Copy this file to wifi_config.h (git-ignored) and fill in your own values.
+// The board joins this network so the FHD RTSP stream can be viewed from a PC.
+#ifndef WIFI_CONFIG_H
+#define WIFI_CONFIG_H
+
+#define WIFI_SSID "your_ssid"
+#define WIFI_PASS "your_password"
+
+#endif
